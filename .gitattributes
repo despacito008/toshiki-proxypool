@@ -1,0 +1,2 @@
+*.go filter=lfs diff=lfs merge=lfs -text
+*mmdb filter=lfs diff=lfs merge=lfs -text
